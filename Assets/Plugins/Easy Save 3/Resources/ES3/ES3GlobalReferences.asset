@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6b16dc7c203450459bb86e24305f9ca, type: 3}
+  m_Name: ES3GlobalReferences
+  m_EditorClassIdentifier: 
+  refId:
+    _Keys:
+    - {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+    - {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+    - {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+    - {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+    - {fileID: 11500000, guid: 35779052637a4977b33bcc40eace22e8, type: 3}
+    - {fileID: 11500000, guid: 9705138aa9f740979556d35da3a9e931, type: 3}
+    - {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+    - {fileID: 11500000, guid: 4ccbc405494b479eb61d01a379251867, type: 3}
+    - {fileID: 2800000, guid: eb033f0681a011f4aa1da6fefaae3880, type: 3}
+    - {fileID: 12800000, guid: eb033f0681a011f4aa1da6fefaae3880, type: 3}
+    - {fileID: 2100000, guid: b66cf7a186d13054989b33a5c90044e4, type: 2}
+    - {fileID: 2800000, guid: 1839b3089551e6c42a98aa46dbfa7a99, type: 3}
+    - {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+    - {fileID: 2800000, guid: 30551513adbba014fb078b6ffd5be775, type: 3}
+    - {fileID: 21300000, guid: 30551513adbba014fb078b6ffd5be775, type: 3}
+    - {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+    - {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+    - {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+    - {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+    - {fileID: 2800000, guid: a2c7e196b6f6d2e4d8ca1bab37da8ec9, type: 3}
+    - {fileID: 21300000, guid: a2c7e196b6f6d2e4d8ca1bab37da8ec9, type: 3}
+    _Values: 3ff9c82c591b2b435daa57feb214ca26d15d922b04c5d86c34f974145125196b8e91049b610a5537cfc23614986fd33e923d7401a6ed616f76d60776ccf65b793c1687150a18301f3225ec82964d9273530e568d0eb33a6838b8d96977b71c26c69d0106f6527129133b5f7f7e672c1e3f61c40acfa2d559fe9a3724dd522b1044820b9d37aafd385edd807445631c5b8764ff9a989f92204b5fecca6963fe5cd79578f1693a9604

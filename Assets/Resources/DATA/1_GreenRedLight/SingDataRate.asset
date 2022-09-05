@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f42ed4551e14442bffe5e720ee4204f, type: 3}
+  m_Name: SingDataRate
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: singTime
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Single,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 7
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 4
+      Data: 4.5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 4
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 4
+      Data: 3.5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 4
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 4
+      Data: 2.5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 4
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 7
+    - Name: $v
+      Entry: 4
+      Data: 1.5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  minDead: 3
+  maxDead: 11
+  allRates:
+  - minStage: 0
+    maxStage: 2
+    firstRate: 0.7
+    secondRate: 0.15
+    thirdRate: 0.1
+    fourthRate: 0.05
+    fifthRate: 0
+    sixthRate: 0
+    seventhRate: 0
+  - minStage: 3
+    maxStage: 5
+    firstRate: 0.6
+    secondRate: 0.15
+    thirdRate: 0.1
+    fourthRate: 0.1
+    fifthRate: 0.03
+    sixthRate: 0.02
+    seventhRate: 0
+  - minStage: 6
+    maxStage: 7
+    firstRate: 0.5
+    secondRate: 0.2
+    thirdRate: 0.15
+    fourthRate: 0.1
+    fifthRate: 0.02
+    sixthRate: 0.02
+    seventhRate: 0.01
+  - minStage: 8
+    maxStage: 9
+    firstRate: 0.4
+    secondRate: 0.19
+    thirdRate: 0.2
+    fourthRate: 0.15
+    fifthRate: 0.02
+    sixthRate: 0.03
+    seventhRate: 0.01
+  - minStage: 10
+    maxStage: -1
+    firstRate: 0.3
+    secondRate: 0.1
+    thirdRate: 0.15
+    fourthRate: 0.15
+    fifthRate: 0.15
+    sixthRate: 0.1
+    seventhRate: 0.05
+  deadRates:
+  - minTime: 0
+    maxTime: 15
+    slowSingDeadRate: 0.2
+    mediumSingDeadRate: 0.2
+    highSingDeadRate: 0.3
+  - minTime: 15
+    maxTime: 30
+    slowSingDeadRate: 0.2
+    mediumSingDeadRate: 0.4
+    highSingDeadRate: 0.2
+  - minTime: 30
+    maxTime: -1
+    slowSingDeadRate: 0.2
+    mediumSingDeadRate: 0.5
+    highSingDeadRate: 0.8

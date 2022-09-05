@@ -1,0 +1,31 @@
+namespace Core.Common.Popup
+{
+    public enum PopupType
+    {
+        None,
+        MainMenu,
+        NotificationPopup,
+        SelectGameplayPopup,
+        TestUi,
+        Hud,
+        DiamondTablePopup,
+        GoldTablePopup,
+        SettingPopupMainMenu,
+        NoAdsPopup,
+        LuckySpinPopup,
+        SkinPopup,
+        HousePopup,
+        SpinRewardPopup,
+        WinPopup,
+        LosePopup,
+        PopupPiggy,
+        PopupFerrisWheel,
+        PopupGuard,
+        PopupSwing,
+        PopupDollyChair,
+        PopupSlide,
+        PopupSeeSaw,
+        PopupSpaceShip,
+        SettingPopupInGame,
+    }
+}

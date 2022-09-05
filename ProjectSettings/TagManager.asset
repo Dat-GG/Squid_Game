@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Goal
+  - DeadPoint
+  - Bot
+  - PlayerHitBox
+  - BotHitBox
+  - KatanaHitBox
+  - GiantHitBox
+  - PlayerKatanaHitBox
+  - PlayerGiantHitBox
+  - Thunder
+  - ThunderArea
+  - Candy
+  - Outline
+  - GroundBreak
+  - EnemyBox
+  - Missile
+  - MarbleEnemy
+  - MarblePlayer
+  - PlayerThunder
+  - Start
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Dalgona
+  - 
+  - MarblePlayer
+  - MarbleEnemy
+  - CollectPlayer
+  - CollectEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 2624825825
+    locked: 0
+  - name: Enemy
+    uniqueID: 420230013
+    locked: 0
+  - name: Player
+    uniqueID: 887078549
+    locked: 0
